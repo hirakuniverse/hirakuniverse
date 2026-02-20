@@ -17,21 +17,18 @@ MongoDB, SQL
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
 
 ## 🌐 Connect With Me
-<p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-      width="24" height="24" />
+      width="22" height="22" />
   </a>
   <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-      width="24" height="24" />
+      width="22" height="22" />
   </a>
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-      width="24" height="24" />
+      width="22" height="22" />
   </a>
-</p>
-
 
 Let’s build something meaningful 🚀
 
