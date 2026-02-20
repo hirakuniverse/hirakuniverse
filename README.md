@@ -17,18 +17,20 @@ MongoDB, SQL
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
 
 ## 🌐 Connect With Me
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/hirakpatel17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
       width="22" height="22" />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+  <a href="https://www.instagram.com/hirakpatel17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
       width="22" height="22" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:hirakpatel17@hotmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
       width="22" height="22" />
   </a>
+
+
 
 Let’s build something meaningful 🚀
 
