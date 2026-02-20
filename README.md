@@ -19,21 +19,16 @@ System Design, Performance Optimization, Web Security, Modern Frontend Architect
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="40" height="40"
-      style="background:#1a1a2e; border-radius:10px; padding:6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+      width="24" height="24" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-      width="40" height="40"
-      style="background:#1a1a2e; border-radius:10px; padding:6px; filter:invert(1);" />
+      width="24" height="24" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-      width="40" height="40"
-      style="background:#1a1a2e; border-radius:10px; padding:6px; filter:invert(1);" />
+      width="24" height="24" />
   </a>
 </p>
 
