@@ -1,3 +1,8 @@
+<style>
+   .markdown-body img[align=left]{
+      padding-right: "20px";
+   }
+</style>
 ## Hi there, I'm Hirak Patel 👋
 Software Engineer | Tech Enthusiast
 
@@ -17,11 +22,6 @@ MongoDB, SQL
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
 
 ## 🌐 Connect With Me
-<style>
-   .markdown-body img[align=left]{
-      padding-right: "20px";
-   }
-</style>
    <a align="left" href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24"/>
   </a>
