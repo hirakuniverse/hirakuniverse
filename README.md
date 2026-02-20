@@ -1,7 +1,4 @@
 ## Hi there, Hirak Patel 👋
-<!--
-**hirakuniverse/hirakuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m a Software Engineer by profession and a problem solver by passion.
 I build scalable web applications using React, Vue, and Node.js.
 
@@ -20,3 +17,7 @@ Also interested in:
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
 
 Let’s build something meaningful 🚀
+<!--
+**hirakuniverse/hirakuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
