@@ -1,4 +1,4 @@
-## Hi there, Hirak Patel 👋
+## Hi there, I'm Hirak Patel 👋
 I'm a Software Engineer by profession and a problem solver by passion.
 I build scalable web applications using React, Vue, and Node.js.
 
