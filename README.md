@@ -19,15 +19,21 @@ System Design, Performance Optimization, Web Security, Modern Frontend Architect
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="40" height="40"
+      style="background:#1a1a2e; border-radius:10px; padding:6px;" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+      width="40" height="40"
+      style="background:#1a1a2e; border-radius:10px; padding:6px; filter:invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="35" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+      width="40" height="40"
+      style="background:#1a1a2e; border-radius:10px; padding:6px; filter:invert(1);" />
   </a>
 </p>
 
