@@ -1,8 +1,3 @@
-<style>
-   .markdown-body img[align=left]{
-      padding-right: "20px";
-   }
-</style>
 ## Hi there, I'm Hirak Patel 👋
 Software Engineer | Tech Enthusiast
 
@@ -23,13 +18,13 @@ System Design, Performance Optimization, Web Security, Modern Frontend Architect
 
 ## 🌐 Connect With Me
    <a align="left" href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="margin-right:20px;"/>
   </a>
   <a align="left" href="https://www.instagram.com/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" height="24"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" style="margin-right:20px;"/>
   </a>
   <a align="left" href="mailto:hirakpatel17@hotmail.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" height="24"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" style="margin-right:20px;"/>
   </a>
 <br>
 <br>
