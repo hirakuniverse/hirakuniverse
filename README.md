@@ -18,17 +18,17 @@ System Design, Performance Optimization, Web Security, Modern Frontend Architect
 
 ## 🌐 Connect With Me
    <a align="left" href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="max-width=100%;margin-right:20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="max-width=100%;margin-right:'20px';" />
   </a>
   <a align="left" href="https://www.instagram.com/hirakpatel17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
       width="24" height="24"
-      width="24" style="max-width=100%;margin-right:20px;" />
+      width="24" style="max-width=100%;margin-right:'20px';" />
   </a>
   <a align="left" href="mailto:hirakpatel17@hotmail.com">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
       width="24" height="24"
-      width="24" style="max-width=100%;margin-right:20px;" />
+      width="24" style="max-width=100%;margin-right:'20px';" />
   </a>
 </p>
 <br>
