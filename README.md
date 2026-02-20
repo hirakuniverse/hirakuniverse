@@ -1,9 +1,4 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<p align="center">
-  Full-Stack JavaScript Engineer &nbsp;·&nbsp; 10+ Years of Experience &nbsp;·&nbsp; Team Lead
-</p>
-<br />
 <!--
 **hirakuniverse/hirakuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
