@@ -17,9 +17,23 @@ MongoDB, SQL
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
 
 ## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 
 Let’s build something meaningful 🚀
+
 <!--
 **hirakuniverse/hirakuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
