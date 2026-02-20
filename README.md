@@ -17,20 +17,25 @@ MongoDB, SQL
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
 
 ## 🌐 Connect With Me
-   <a align="left" href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="padding-right:'20px';" />
-  </a>
-  <a align="left" href="https://www.instagram.com/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-      width="24" height="24"
-      width="24" style="max-width=100%;margin-right:'20px';" />
-  </a>
-  <a align="left" href="mailto:hirakpatel17@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-      width="24" height="24"
-      width="24" style="max-width=100%;margin-right:'20px';" />
-  </a>
-</p>
+   <table border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/YOUR-USERNAME" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" height="24" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/YOUR-USERNAME" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" height="24" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:YOUR-EMAIL@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" height="24" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
 <br>
 
