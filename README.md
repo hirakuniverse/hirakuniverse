@@ -26,13 +26,11 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 </ul>
 
 ## 🌐 Connect With Me
-
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="padding-right:20px">](https://www.linkedin.com/in/hirakpatel17)
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" style="padding-right:20px">](https://www.instagram.com/hirakpatel17)
-[<img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24" style="padding-right:20px">](mailto:hirakpatel17@hotmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" align="left" style="margin-right:10px">](https://www.linkedin.com/in/hirakpatel17)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" align="left" style="padding-right:10px">](https://www.instagram.com/hirakpatel17)
+[<img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24" align="left">](mailto:hirakpatel17@hotmail.com)
 <br>
 Let’s build something meaningful 🚀
-
 <!--
 **hirakuniverse/hirakuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
