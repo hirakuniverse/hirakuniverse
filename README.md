@@ -8,10 +8,13 @@ I enjoy writing clean, maintainable code and solving complex technical challenge
 I've worked across healthcare, IT services, and enterprise platforms, collaborating directly with clients and agile teams.
 
 ## 🧑‍💻 My Tech Stack
-JavaScript, React, Vue, Angular
-Node.js, Express
-REST APIs, Socket.io
-MongoDB, SQL
+<ul>
+   <li>JavaScript, React, Vue, Angular</li>
+   <li>Node.js, Express</li>
+   <li>REST APIs, Socket.io</li>
+   <li>MongoDB, MySQL</li>
+</ul>
+
 
 ## ⚡Interested In
 System Design, Performance Optimization, Web Security, Modern Frontend Architecture
