@@ -27,11 +27,11 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 
 ## 🌐 Connect With Me
 <p>
-   <a href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
+   <a href="[LinkedIn](https://www.linkedin.com/in/hirakpatel17)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="margin-right:10px;" alt="LinkedIn"/>
   </a>
    &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hirakpatel17" target="_blank">
+  <a href="[Instagram](https://www.instagram.com/hirakpatel17)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" style="margin-right:10px;" alt="Instagram"/>
   </a>
    &nbsp;&nbsp;
