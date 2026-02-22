@@ -40,7 +40,6 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 </p>
 <br>
 <br>
-<br>
 
 Let’s build something meaningful 🚀
 
