@@ -27,7 +27,7 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/hirakpatel17)
+![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)
 <p>
    <a href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="margin-right:10px;" alt="LinkedIn"/>
