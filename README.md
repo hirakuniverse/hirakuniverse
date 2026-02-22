@@ -17,17 +17,22 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 
 
 ## ⚡Interested In
-System Design, Performance Optimization, Web Security, Modern Frontend Architecture
+<ul>
+   <li>System Design</li>
+   <li>Performance Optimization</li>
+   <li>Web Security</li>
+   <li>Modern Web Architecture</li>
+</ul>
 
 ## 🌐 Connect With Me
-   <a align="left" href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="margin-right:20px;"/>
+   <a align="left" href="https://www.linkedin.com/in/hirakpatel17">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24"/>
   </a>
-  <a align="left" href="https://www.instagram.com/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" style="margin-right:20px;"/>
+  <a align="left" href="https://www.instagram.com/hirakpatel17">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24"/>
   </a>
-  <a align="left" href="mailto:hirakpatel17@hotmail.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="24" style="margin-right:20px;"/>
+  <a align="left" href="mailto:hirakpatel17@hotmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24" />
   </a>
 <br>
 <br>
