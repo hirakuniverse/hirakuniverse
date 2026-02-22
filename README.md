@@ -27,19 +27,9 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 
 ## 🌐 Connect With Me
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24">](https://www.linkedin.com/in/hirakpatel17)<p>
-   <a href="https://www.linkedin.com/in/hirakpatel17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" style="margin-right:10px;" alt="LinkedIn"/>
-  </a>
-   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/hirakpatel17" target="_blank">
-    <img src="(https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)" width="24" style="margin-right:10px;" alt="Instagram"/>
-  </a>
-   &nbsp;&nbsp;
-  <a href="mailto:hirakpatel17@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24" alt="Mail"/>
-  </a>
-</p>
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24">](https://www.linkedin.com/in/hirakpatel17)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24">](https://www.instagram.com/hirakpatel17)
+[<img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24">](mailto:hirakpatel17@hotmail.com)
 <br>
 Let’s build something meaningful 🚀
 
