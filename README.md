@@ -9,7 +9,8 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 
 ## 🧑‍💻 My Tech Stack
 <ul>
-   <li>JavaScript, React, Vue, Angular</li>
+   <li>JavaScript, TypeScript, React, Vue, Angular</li>
+   <li>Redux, Vuex</li>
    <li>Node.js, Express</li>
    <li>REST APIs, Socket.io</li>
    <li>MongoDB, MySQL</li>
