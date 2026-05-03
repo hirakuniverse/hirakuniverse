@@ -28,7 +28,7 @@ I've worked across healthcare, IT services, and enterprise platforms, collaborat
 ## 🌐 Connect With Me
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" align="left" style="margin-right:10px">](https://www.linkedin.com/in/hirakpatel17)
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" align="left" style="padding-right:10px">](https://www.instagram.com/hirakpatel17)
-[<img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24" align="left">](mailto:hirakpatel17@hotmail.com)
+[<img src="https://cdn.jsdelivr.net/npm/heroicons@2.2.0/24/solid/envelope.svg" width="24" align="left">](mailto:codewithhirak.com)
 <br>
 <br>
 Let’s build something meaningful 🚀
